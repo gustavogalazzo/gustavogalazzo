@@ -1,4 +1,4 @@
-## Hello World  :)  Eu sou o Gustavo Galazzo, Estudante de Sistemas de Informação e Web Developer!
+## Hello World 👋🏻  Eu sou o Gustavo Galazzo, Estudante de Sistemas de Informação e Web Developer!
 
 <div align="center">
   
